@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\views\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:views\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|c:\\users\\tamarindo\\source\\repos\\e-commerce aycs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F16C003C-DD96-4BD4-BBD4-C5D2ACA1407F}|e-commerce AYCS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Success.cshtml",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\Success.cshtml",
+              "RelativeToolTip": "Views\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:50:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\login\\Login.cshtml",
+              "RelativeToolTip": "Views\\login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:49:09.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:44:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\CheckOut\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CheckOut\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Views\\CheckOut\\Index.cshtml",
+              "RelativeToolTip": "Views\\CheckOut\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:42:14.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckOutController.cs",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Controllers\\CheckOutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckOutController.cs",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Controllers\\CheckOutController.cs",
+              "RelativeToolTip": "Controllers\\CheckOutController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwF0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:58:04.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Models\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Models\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Models\\ProductEntity.cs",
+              "RelativeToolTip": "Models\\ProductEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:51:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:45:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T11:06:20.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

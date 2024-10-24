@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GdIU9wqF7QQTHPM0HONMexpvDvLGOW46FotTTcR0Kr67EijNx7RoZ8Ipumzb19DQhzO53MoCcpYNiZ4OJfwHLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tamarindo\\source\\repos\\e-commerce AYCS\\e-commerce AYCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tamarindo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\tamarindo\\.nuget\\packages\\stripe.net\\46.2.1\\stripe.net.46.2.1.nupkg.sha512",
+    "C:\\Users\\tamarindo\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\tamarindo\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\tamarindo\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
